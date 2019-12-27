@@ -1,4 +1,4 @@
-module github.com/heroku/go-getting-started
+module ramos-news
 
 go 1.12
 
