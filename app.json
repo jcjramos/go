@@ -1,0 +1,12 @@
+{
+  "name": "Ramos News on Heroku: Go",
+  "description": "Ramos news  Example App",
+  "keywords": [
+    "ramos-news",
+    "go",
+    "ramos",
+    "news"
+  ],
+  "website": "http://jcramos.net",
+  "repository": "https://github.com/jcjramos/go/"
+}
