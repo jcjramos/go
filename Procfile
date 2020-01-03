@@ -1,1 +1,1 @@
-web: bin/ramos-news
+web: bin/go-getting-started
